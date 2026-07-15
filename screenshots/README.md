@@ -4,13 +4,13 @@
 
 ## System Architecture
 
-![System Architecture](screenshots/system-architecture.png)
+![System Architecture](system-architecture.png)
 
 ---
 
 ## Use Case Diagram
 
-![Use Case Diagram](screenshots/use-case-diagram.png)
+![Use Case Diagram](use-case-diagram.png)
 
 ---
 
@@ -22,13 +22,12 @@
 
 ## Label Distribution
 
-![Label Distribution](screenshots/bert-label-distribution.png)
+![Label Distribution](bert-label-distribution.png)
 
----
 
 ## Toxic vs Clean Comments
 
-![Toxic vs Clean](screenshots/toxic-vs-clean-comments.png)
+![Toxic vs Clean](toxic-vs-clean-comments.png)
 
 ---
 
@@ -36,16 +35,16 @@
 
 ### Home Screen
 
-![Home](screenshots/flask-home.png)
+![Home](flask-home.png)
 
 ### Toxic Prediction
 
-![Toxic](screenshots/flask-toxic.png)
+![Toxic](flask-toxic.png)
 
 ### Threat Prediction
 
-![Threat](screenshots/flask-threat.png)
+![Threat](flask-threat.png)
 
 ### Obscene Prediction
 
-![Obscene](screenshots/flask-obscene.png)
+![Obscene](flask-obscene.png)
