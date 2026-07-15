@@ -16,7 +16,7 @@
 
 ## Training & Validation Results
 
-![Training Results](screenshots/training-validation-results.png)
+![Training Results](training-validation-results.png)
 
 ---
 
