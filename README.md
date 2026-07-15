@@ -34,13 +34,25 @@ The system classifies comments into six toxicity categories using Natural Langua
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```
-BERT.ipynb
-Conv1D.ipynb
-DISTILLBERT.ipynb
-README.md
+```text
+toxic-comment-classification/
+│── BERT.ipynb
+│── Conv1D.ipynb
+│── DISTILBERT.ipynb
+│── README.md
+│── requirements.txt
+└── screenshots/
+    ├── system-architecture.png
+    ├── use-case-diagram.png
+    ├── training-validation-results.png
+    ├── bert-label-distribution.png
+    ├── toxic-vs-clean-comments.png
+    ├── flask-home.png
+    ├── flask-toxic.png
+    ├── flask-threat.png
+    └── flask-obscene.png
 ```
 
 ---
